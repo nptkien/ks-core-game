@@ -1,6 +1,6 @@
 {
     "name": "ks-core-game",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "lib for core game web app",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
